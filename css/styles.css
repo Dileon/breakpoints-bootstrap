@@ -1,0 +1,22 @@
+*
+style:
+*{
+box-sizing: border-box;
+}
+
+body{
+margin: 0;
+padding: 2px;
+border-color: #F2B705(0, 0, 0);
+background-color: #9CD9B6;
+}
+
+
+.caja1{
+border-color: #F2B705(0, 0, 0);
+background-color: #63A5BF;
+border-style: solid;
+height: 500px;
+
+
+}
